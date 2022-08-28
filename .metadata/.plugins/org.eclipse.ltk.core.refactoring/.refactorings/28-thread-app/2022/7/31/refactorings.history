@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;32-executor-service-app/src/com.monocept.model&apos;&#x0D;&#x0A;- Original project: &apos;28-thread-app&apos;&#x0D;&#x0A;- Destination element: &apos;32-executor-service-app/src/com.monocept.model&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     com.monocept.test.Aplhabets.java&#x0D;&#x0A;     com.monocept.test.Numbers.java" description="Copy compilation units" destination="=32-executor-service-app/src&lt;com.monocept.model" element1="/src&lt;com.monocept.test{Aplhabets.java" element2="/src&lt;com.monocept.test{Numbers.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1658886656620" units="2" version="1.0"/>
+</session>

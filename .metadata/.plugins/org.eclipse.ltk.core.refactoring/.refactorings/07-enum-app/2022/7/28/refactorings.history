@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.monocept.circle.circle&apos; to &apos;Circle&apos;&#x0D;&#x0A;- Original project: &apos;07-enum-app&apos;&#x0D;&#x0A;- Original element: &apos;com.monocept.circle.circle&apos;&#x0D;&#x0A;- Renamed element: &apos;com.monocept.circle.Circle&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;circle&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.monocept.circle{circle.java[circle" matchStrategy="1" name="Circle" qualified="false" references="true" similarDeclarations="false" stamp="1656998678988" textual="false" version="1.0"/>
+</session>

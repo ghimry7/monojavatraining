@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;input.test&apos; to &apos;31-evaluation-test-app&apos;&#x0D;&#x0A;- Original project: &apos;assignment-arraylist-employee&apos;&#x0D;&#x0A;- Destination element: &apos;31-evaluation-test-app&apos;&#x0D;&#x0A;- Original element: &apos;input.test&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move file" destination="=31-evaluation-test-app" element1="input.test" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1658729959182" units="0" version="1.0"/>
+</session>

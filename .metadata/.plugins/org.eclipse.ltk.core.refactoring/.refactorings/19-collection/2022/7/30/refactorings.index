@@ -1,0 +1,13 @@
+1658379527875	Rename package 'com.monocept.hashset'
+1658379546664	Rename package 'set'
+1658379556188	Move compilation unit
+1658379561383	Delete element
+1658379816432	Rename package 'com.monocept.arraylist'
+1658379821621	Move compilation unit
+1658379826653	Move compilation unit
+1658379830383	Delete element
+1658379832224	Delete element
+1658379877896	Delete element
+1658379941400	Rename type 'HashMapTest'
+1658379955953	Rename type 'TreeHashMapTest'
+1658380154586	Rename type 'LinkedHashMap'

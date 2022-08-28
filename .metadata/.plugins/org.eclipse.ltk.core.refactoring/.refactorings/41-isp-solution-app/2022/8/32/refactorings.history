@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.monocept.model.IWorker&apos; to &apos;IWork&apos;&#x0D;&#x0A;- Original project: &apos;41-isp-solution-app&apos;&#x0D;&#x0A;- Original element: &apos;com.monocept.model.IWorker&apos;&#x0D;&#x0A;- Renamed element: &apos;com.monocept.model.IWork&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;IWorker&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.monocept.model{IWorker.java[IWorker" matchStrategy="1" name="IWork" qualified="false" references="true" similarDeclarations="false" stamp="1659514865856" textual="false" version="1.0"/>
+</session>
